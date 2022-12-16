@@ -15,6 +15,6 @@ Links and Images Attached:
 1. Data Cleaning Pipeline Script : https://github.com/Muthu2110/pythonProject/tree/main/Data%20Cleaning%20For%20Netflix
 2. Content Showing Movies Vs Tv Shows between 2008 and 2021 across all countries : Image1.png
 3. Content Showing TvShows released between 2008 and 2021 across all countries: Image2.png
-3. Content Showing TvShows released between 2020 and 2021 across all countries: Image3.png
-3. Content Showing Movies released between 2020 and 2021 across all countries: Image3.png
-3. Content Showing Movies released between 2020 and 2021 across all countries: Image3.png
+4. Content Showing TvShows released between 2020 and 2021 across all countries: Image3.png
+5. Content Showing Movies released between 2018 and 2021 across all countries: Image4.png
+6. Content Showing Movies released between 2019 and 2021 across all countries: Image5.png
