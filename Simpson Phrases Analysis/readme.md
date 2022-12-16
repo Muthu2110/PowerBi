@@ -10,7 +10,7 @@ in all the column values to perform analysis on cleaned data.
 
 From our analysis, we found that the phrase "Homer"(from the list of phrases we had) was uttered(4116 times) the maximum number times and it was max uttered 28times(the maximum for a location) at Barney's Bowlarama alone
 
-We could do similar analysis on our favorite TV shows or movies to find the famous phrases uttered in them which will help to narrow down the episode we need and leanr interesting facts about how many times they were uttered.
+We could do similar analysis on our favorite TV shows or movies to find the famous phrases uttered in them which will help to narrow down the episode we need and learn interesting facts about how many times they were uttered.
 
 
 Files attached:
